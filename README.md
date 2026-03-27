@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Kumar Saha
+
+🎓 B.Tech CSE Student  
+💻 Aspiring Full Stack Developer  
+📚 Currently Learning DSA & MERN Stack  
+
+---
+
+## 🚀 Skills
+- C++
+- Java
+- Python
+- HTML, CSS, JavaScript
+- Data Structures & Algorithms
+
+---
+
+## 🔥 Currently Working On
+- Improving DSA skills  
+- Building web development projects  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/manish-kumar-saha-b656a0325/
 
 <!--
 **manishsaha-dev/manishsaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
